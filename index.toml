@@ -13,6 +13,274 @@ file = "defaultconfigs/incontrol/spawn.json"
 hash = "0801ec7d154c8c4c3cd2ea5c242c21d7af53eacea8cdeeac0b555926c8d69460"
 
 [[files]]
+file = "kubejs/assets/kubejs/ponder/fission_logic.nbt"
+hash = "5b37c786ed01f46c06bf10e1476cdaac5edf2c6789691139a5c5a1ef90be9e89"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/fission_logic_example.nbt"
+hash = "e088ad25408442573d4be7a5e5c1c342606ca40ca58265b6aa63141a104339f7"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/fission_mek.nbt"
+hash = "37bd313441e2abc38cf1c3267326bd28a2e78711780e1a02168cb08bd339b38b"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/fusion_activation.nbt"
+hash = "3e27a808d68d0556d352a986edd260546aae75fad67e137e7348bff0885b45ed"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/fusion_mek.nbt"
+hash = "8d06ec1200f31762da945b11d68d7a1aa1b0a48d2df4bb5e33deaf8f5d26d025"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/induction_matrix.nbt"
+hash = "d35cc0d7ae007761f5fcc9c990776bc5e2bc1203ba2e07928358890ef61391ee"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/reactor.nbt"
+hash = "b4ae37d6f2c9664e59f09e23b8d6e15598d543c892ba4ea679dbd391bc20f52e"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/sps.nbt"
+hash = "8bbfef8db9364fb874859ad62355a34cd61b9af1d9b223f14ff2af12b8d66e14"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/turbine_mek.nbt"
+hash = "db260149b77ba74370499e28c922aeb6d2fbfcf8313e3d3b9772fd6672fe05e8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/allthemodium_beam_package.png"
+hash = "36287fabe1336cffca10a3c053e07e275fe32af2a24d0766517257275415009b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/allthemodium_bolt.png"
+hash = "2567bf2b5371f99609ce3726183fe4ec40036b9091eca9c8fbad5b11f5734e3c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/allthemodium_curved_plate.png"
+hash = "5fc01f52f7ca3b6b6cec1b3083044473991ba0bbded831efc678c339b9afcf80"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/allthemodium_drill.png"
+hash = "3b693c0b5ce875143d30622e79ae7069f0c0013dfc086606a354524f3e6452ad"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/allthemodium_drill_head.png"
+hash = "5e1e14829137e16378bca592459834599544474d5695de847fcb4c10a42b1533"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/allthemodium_solar_sail_package.png"
+hash = "0cf255806c0f16020284624b547a4af90aab036bcaa8bf174ba2af947f9dec89"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ancient_stone_cell.png"
+hash = "7ad8b0a946d49ae04388c250abe75cf5811199bea742a87907d0c317bca7efe5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/andesite_cell.png"
+hash = "0af58414cf318e69bf3170eefeb427441658e7f571a739dcfd72ca7d39c5419c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basalt_cell.png"
+hash = "16c689ac3faa91ad7cef062ab81ba4582707c859bcdc25ecc1a36cec163e41dc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/black_cell.png"
+hash = "94ea0acde163a6ce3cca0cb00e86e50c719f4ccb321a4c2d3a5841a641651fcf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/blackstone_cell.png"
+hash = "6b478366ade1c2ccabc24fc283b7b388a6efea2b878aefcba548a6f389b84ab8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/blue_cell.png"
+hash = "b4fd8d7b14f0612035e22ad7b45d5c3a6fc0217cf476146959c319e0aa28631a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/brown_cell.png"
+hash = "4aa8fa9cf2eacc4ca6898360274f2d25c475d3dc9d04b1d831526fb6b474011f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/calcite_cell.png"
+hash = "4dfa5c90b21ed29e71808098823a8bd8f7a3677d4c6ff522dfa24b396a7a5650"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/clay_cell.png"
+hash = "43e4cb32d7c00149e2606048aa0c8b35180791617c63d98ed3bfe32d56e49037"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cobbled_deepslate_cell.png"
+hash = "3895611f7659e0e33a643bddc87bd6da8bf0ab05502d7b4e2a36d0de7a743bc9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cyan_cell.png"
+hash = "7e49d6ab234ca2c37c42ef6e5a6cb367b2ec03e8302af060646bd2b38a07fb86"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/diorite_cell.png"
+hash = "d8c730d77db7fc1ed73bd9dab6510fc564f5b01108c5ff21be76eb642d8e8251"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dirt_cell.png"
+hash = "39ea029a512ab36d0dcff2cabddc529304969fc8c6dc85f9a02d23e9acdbb29a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/end_stone_cell.png"
+hash = "530b47d073976e5b306c4eb9dd0271710bebd8ade9aceb1981d312e10dd9ebbf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/granite_cell.png"
+hash = "557e94ed6322579d3ef8a5dc4a0094732b3dde690ddc1b910a063993412c30ce"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gravel_cell.png"
+hash = "92db8c7070a1e0133a88ba7d2f81995bfc4f97acc54462dbd1e14a99e5f7c283"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gray_cell.png"
+hash = "8c50cec6bfce46428254b3ae0c5a5029a293e56a95748343e656b2e29b3f31a9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/green_cell.png"
+hash = "dc7e0587fd6d2727dbc742925ae12bbe1631ce1eff4ebb27d5cfec973da2c2bd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ice_eye.png"
+hash = "0b22a43212f9bb5cfc6dce135a8efbfc5f8ad3dd4b2583b5deabce9e2bbbbd04"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ice_pearl.png"
+hash = "d5fe25fcc3ea96abaf5b2bfaccba444da17497d417e7abaff40d93143b41adc8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/kivi_cell.png"
+hash = "1ce2fd92219c0cefcef88e6270b978f12ce6b8962f69b2ebdfca8a45af6cedcf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/lava_cell.png"
+hash = "c9e3f0ce942485bdcc6e886fcdd33971bf2307d8e8880dd5c388ec0bf85be6f6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/light_blue_cell.png"
+hash = "7c47f97fca964c28908e8846100f8c8ccdbfe8cef001d9aa2b2c863e58e1586e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/light_gray_cell.png"
+hash = "ad5ccda5f0494ae0f85273d6839c8fd328fce50cae6126da262e0477a64816ba"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/lightning_pearl.png"
+hash = "3bed330e10ae65f99c39009818af611a14b0727dbe7affdb18b2f25af449bc05"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/lime_cell.png"
+hash = "8d394757f4a3afe15a9d2091a8046f8a4cc5cfd030038d97135758dbf1a58a22"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/magenta_cell.png"
+hash = "eff8b73f05207c463e460fd318ca1f4363a55fb3514461d0eb48ee286d427ce0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/moss_cell.png"
+hash = "000aa527c67d6f4a67b1ba1b39c2be80143a3ed70a2f5fb4076013fd728326c5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/netherrack_cell.png"
+hash = "727cbb6c5eb839ef2f958741bf748aef2672f1e07fcf61fa4e8d3222b5404499"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/orange_cell.png"
+hash = "a2f497d8cd969e3356eb7c75042a8902258ab84a775f392e8d9507d8687e2988"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pink_cell.png"
+hash = "8296638f82ccb597e5bf332eadc49a5d48033b6586ad044617ca220bc0847f87"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/purple_cell.png"
+hash = "073648723c47b3bcfaea3bb27725c25ccc7ce02d168caa98cdaa8479d01bf3a9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/red_cell.png"
+hash = "6a1f8bde78d23c45e77fba52b0cb843dfe8e9e12cca38aac6d5435b6d381ceab"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/red_sand_cell.png"
+hash = "a3609dee7e49b4691f09575e1d95500862ccfc953d04d048ef8a537087d9b08b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/sand_cell.png"
+hash = "44594cf3193d4fb5713c245372d9c4336418e9e194b322c74abec5a323801154"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silent_allthemodium_plate.png"
+hash = "23b7f8378d92e3e51780a53071dac2ecc50827ac354fa93c9eeaebd285ca339b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silent_unobtainium_plate.png"
+hash = "b1e3816a925b6ca8aeb9850f095ca8561582eb1b252ffdc36081cd81287fe51b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silent_vibranium_plate.png"
+hash = "1721d59e0be1affd93e403f2f93223deff7ac0b8c735234fc1f44c2828ee5293"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/sky_stone_cell.png"
+hash = "c0de679902c1da66dae9f76466775f79ed9ce311bc087cf722637ec1e06dcc1b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/soul_sand_cell.png"
+hash = "6bdcd1b994e10a00d62d22a09f1faba5992597acb61517ceba2d3d370d0f1326"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tuff_cell.png"
+hash = "e9f0a6f2c6dd2774b8e7729e8b91f613398c8404bc8cbaf36beb0ef8df149ba8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/universal_press.png"
+hash = "1f8d9658d9e30ec514f4e623504bb8df42fa329c63b71f832613b6494fa2341e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unobtainium_bolt.png"
+hash = "f1e4b9ec2970f50f6f239e8d6de2b7d064bfb01fb5a07bc9895b033268afcb75"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unobtainium_curved_plate.png"
+hash = "0f0b15f470a8d73dc8d98b06500d2743a9f0ad0e6e3f477635374462fac3b7db"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unobtainium_drill.png"
+hash = "b2f78c69138995dfa0802c29ff3810d2ebea17d6699b44cb33bb40457c63eb6a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unobtainium_drill_head.png"
+hash = "03a29ff5a26039216a8fed140b6b2b224ea26bab3a1ae65e82e247369401a862"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/vibranium_bolt.png"
+hash = "0d53a044aeabe9ad35e49ec5ca0a86de27eb316389b6c98d44e58b7f6a4d549c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/vibranium_curved_plate.png"
+hash = "c9c6b9aa538024df87942ca36e570bbcc7c13318d2b28656092dcc4b0d6ac925"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/vibranium_drill.png"
+hash = "d53fedb34188d262ea3974062e6171a0678ba1e9bb931761d6758321ed2e36fc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/vibranium_drill_head.png"
+hash = "4a8f8e73a88a7a6e5a464bcbf0e19555a667595bc5f6555ac197238cf5339c2b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/white_cell.png"
+hash = "aa14cdb8af2a22f5297e0061b962739eb6b86b6f37a3b9092a2a593e81cebf32"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/yellow_cell.png"
+hash = "e6579afb1192c474a8d6147d78ebd380bd8dabebe297b3be277fe0ea6bb7d677"
+
+[[files]]
 file = "kubejs/client_scripts/ponder/fission_mek.js"
 hash = "a9b563726261630a1e5697cd159d43a191b6db4d92950441a0bc597daadfbbe4"
 
@@ -55,6 +323,18 @@ hash = "797238354269615066e22a1a0066d5c3719e7cf02b9e1ddb07198986510936a6"
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
 hash = "55d3fd2d05d2c81735c00f3a048236125e1d7f08f5aeef6ab88b6acda3daaa21"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_materials/allthemodium.json"
+hash = "6813870485b8c95bf3d2cd57dbaeccb4ad081fbb28b1bda4a88968acd7aab4b9"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_materials/unobtainium.json"
+hash = "d1f04eae40d01101a4b62052b356e6db16266a19674121fe4fa36fcd2bcb528a"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_materials/vibranium.json"
+hash = "6331bbc7b4ecc3b56493dfaee4f0ff529503cafa85dbef1348a333489f568437"
 
 [[files]]
 file = "kubejs/server_scripts/modpack/atm_alloys.js"
@@ -278,7 +558,7 @@ hash = "da2320afc4e51f0a3f689b9ebd7a20f3a0f7d2704fd61bcfbe6f6a5a6d6ad0f8"
 
 [[files]]
 file = "kubejs/startup_scripts/customadditions.js"
-hash = "04871ca5168a19b4b4820b3e675b28d39ab88b864d628963ea1fff2c7e8daef0"
+hash = "a46ae7f2742fd26e0b5ae9f95808d72fe362b897cc688e72746187589ab0b1a1"
 
 [[files]]
 file = "kubejs/startup_scripts/farmersdelight.js"
@@ -2614,12 +2894,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "211409a627cd2675389bac83916748f557b704b59a9a1cbaa6a3413339bd34c2"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "e2727c3ebfcea98bdeda78f868ea2ba92d041a436d885cdad4e7654e7ea75620"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
 metafile = true
 
 [[files]]
