@@ -1,0 +1,13 @@
+name = "Doggy Talents Next's Community Skin Expansion"
+filename = "DTNCommunitySkinExpansion[NeoForge]-1.21.1-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VkScpwHM/versions/bKyEaYEC/DTNCommunitySkinExpansion%5BNeoForge%5D-1.21.1-1.2.jar"
+hash-format = "sha512"
+hash = "2c50541a6116913e1ff153edfea392345e9dd8bbb089ba69e02acb05b8919318ff69c2dc9d162a35e46bae45d53d96d2e6955c42c65077939962091d25539261"
+
+[update]
+[update.modrinth]
+mod-id = "VkScpwHM"
+version = "bKyEaYEC"

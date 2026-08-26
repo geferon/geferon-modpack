@@ -1,0 +1,13 @@
+name = "Mekanism Atmospheric Water Generator"
+filename = "atmosphericwatergenerator-1.0.15-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "985b52b605baec65343b08e8427047e3a8ca0bee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8395636
+project-id = 1260695

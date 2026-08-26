@@ -1,0 +1,13 @@
+name = "Geferon's 1.21.1 Modpack"
+author = "Geferon"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e0467e1783891b36256985e2699988d441a143ed36d02934b3a04b691275d41f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
