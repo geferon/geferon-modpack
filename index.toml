@@ -2587,10 +2587,6 @@ hash = "3792d649d29e5c684218283dcb787cca922ac74524730ae04118768aaed5cccf"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml.disabled"
-hash = "0f4f506b1171a3a7d7b73150721075f5b1bc703c043fa539bcdd72c93e665b94"
-
-[[files]]
 file = "mods/structory.pw.toml"
 hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
 metafile = true
@@ -2654,10 +2650,6 @@ metafile = true
 file = "mods/titanium.pw.toml"
 hash = "7830a79862c572434679f36377d3bd985a11a6ccb508d8f1911138138e647a4c"
 metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml.disabled"
-hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
 
 [[files]]
 file = "mods/toomanyrecipeviewers-0.9.1-dev.4+mc.21.1.jar"
