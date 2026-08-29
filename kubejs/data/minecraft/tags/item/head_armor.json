@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "pkgbadges:alians_scraf"
+  ],
+  "remove": [
+    "pkgbadges:alians_scraf_helmet"
+  ]
+}

@@ -5,12 +5,28 @@ file = ".editorconfig"
 hash = "4695e7eaddab70ba3c18b643adfc80180e39c828fe5338422288b860b7fd7724"
 
 [[files]]
+file = "config/aether-common.toml"
+hash = "df73e7a68afdc283fc3f8839568e74a2b8b19c27458250145fb05424efa39ec7"
+
+[[files]]
+file = "config/aether-startup.toml"
+hash = "d73589c763bf76634a796a80a71a315e00e18366211c402f857f1374cab27faf"
+
+[[files]]
+file = "config/cumulus_menus-client.toml"
+hash = "b82f5aef193bd64d86e58ac5a0b5b6b9b4976a137584d783a86798b574231664"
+
+[[files]]
 file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
 hash = "fdf30f6174021100e2c34e5599f8ae6a9914a4b0e7413c162d75cdfaafb22bab"
 
 [[files]]
 file = "defaultconfigs/incontrol/spawn.json"
 hash = "0801ec7d154c8c4c3cd2ea5c242c21d7af53eacea8cdeeac0b555926c8d69460"
+
+[[files]]
+file = "kubejs/assets/compactmachines/lang/en_us.json"
+hash = "8234c295ed9aa9a307dd9ffda44871650303e0c9c30e7fff7d973056fedbaf49"
 
 [[files]]
 file = "kubejs/assets/kubejs/ponder/fission_logic.nbt"
@@ -325,6 +341,878 @@ file = "kubejs/client_scripts/tooltips.js"
 hash = "55d3fd2d05d2c81735c00f3a048236125e1d7f08f5aeef6ab88b6acda3daaa21"
 
 [[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_cinnabar.json"
+hash = "200c011cf0ef68d9ce4815c7795039e105348e5964f889413e47391d5ea5b8eb"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_iridium.json"
+hash = "c6982349fb333214455050451f6196039733b300dc576989d78abffc8a2d5f5c"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_lead.json"
+hash = "79d37aa2eb63e2861f544c9043141b4616963fcd0d57969b6b9a02e731ef8857"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_nickel.json"
+hash = "74d40a51909794bd34ad5bc738ad6bb2ba011ad81f2a23cc1398b198e5d4dfe9"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_osmium.json"
+hash = "2c50039a7c26e5c52430816056a288b9a6f7ba0801020a9f4b0b85ee7adca3fe"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_platinum.json"
+hash = "573dcb690df304c63797c2934e6ea5ac65208ddcda56957c97fe143bf3513f66"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_silver.json"
+hash = "355ecf97de227e2ba8da743356e99228da455b4bfc91af1436944298c25ff1c4"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_tin.json"
+hash = "51ffb4a1d9918dd1227c2fb7563dadff3046a6813a78a533c7983f08d85d3166"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_uranium.json"
+hash = "520d0ba9f5f1a51ddb3754db4a89852e902ce707a838cef0545e2affe6eebb3c"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/configured_feature/ore_zinc.json"
+hash = "0f2abd1979de5839d790a3edf7a8498f959fd7efe276cb0203f639eb4c2e360e"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/placed_feature/ore_cinnabar_placed.json"
+hash = "5ea1e6ba77f6b8a303761b6beea5143e8769064017f008d163fc156e37e971a3"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/placed_feature/ore_iridium_placed.json"
+hash = "4d55d0d0c74e612394510255442ac924f44ab38060b99bbfeaed39b5d49d9fe1"
+
+[[files]]
+file = "kubejs/data/alltheores/worldgen/placed_feature/ore_uranium_placed.json"
+hash = "547c3eb00c9400da714e10c6d1d726ee5346d73aff6b09c75ea3d70ee9092c3f"
+
+[[files]]
+file = "kubejs/data/atm/neoforge/biome_modifier/remove_lava_springs.json"
+hash = "19e6431b1064fae17143da0ce00e383de9f03175eccfa0fea3a71839136d13fa"
+
+[[files]]
+file = "kubejs/data/atm/tags/worldgen/biome/allthemodium_spawnable.json"
+hash = "9f752a9856f8bdc820e91b675344424a39b50f2bcb33719dab45296bd0a79171"
+
+[[files]]
+file = "kubejs/data/atm/tags/worldgen/biome/unobtainium_spawnable.json"
+hash = "70ad3d149717af33d67d55c8758f62237d1f8b393b8038fa8330c97283517b6b"
+
+[[files]]
+file = "kubejs/data/atm/tags/worldgen/biome/vibranium_spawnable.json"
+hash = "182a550e7712549c352408cde10cd35bba8171ae116c59fb8d62e875976ef464"
+
+[[files]]
+file = "kubejs/data/bigreactors/neoforge/biome_modifier/yellorite.json"
+hash = "da39e549e359779ae5963a707ac26b8b5e6201af5fb9b009288286d4ed190cd0"
+
+[[files]]
+file = "kubejs/data/bigreactors/neoforge/biome_modifier/yellorite_deepslate.json"
+hash = "da39e549e359779ae5963a707ac26b8b5e6201af5fb9b009288286d4ed190cd0"
+
+[[files]]
+file = "kubejs/data/botanytrees/loot_table/tree_drops/allthemodium/ancient.json"
+hash = "2b839651c7d9323411488394badfcb2218e0c0b997ec952ede725198ed0823a0"
+
+[[files]]
+file = "kubejs/data/botanytrees/loot_table/tree_drops/allthemodium/demonic.json"
+hash = "7632c69b178da8d87462e742e47fc20a5b8d01bd6efe2d12ff50eeb484d36569"
+
+[[files]]
+file = "kubejs/data/botanytrees/loot_table/tree_drops/allthemodium/soul.json"
+hash = "14d7d07a6582ca3e74ff605dd8355cbcb9357874a478d5ed3b329afafedd88a8"
+
+[[files]]
+file = "kubejs/data/botanytrees/recipe/allthemodium/ancient.json"
+hash = "7201fcb868f611dd14f0884c174865f35057296428e1a30a98290522eb49e99f"
+
+[[files]]
+file = "kubejs/data/botanytrees/recipe/allthemodium/demonic.json"
+hash = "8de59e9280618a72434ebf3506abf7e1ec1efe31f87333837a7561ec7bddd67a"
+
+[[files]]
+file = "kubejs/data/botanytrees/recipe/allthemodium/soul.json"
+hash = "ffc35d674078920756e8af5098bfaa95421e556c5e70553b8b612f6559a9ac32"
+
+[[files]]
+file = "kubejs/data/c/tags/item/tools/bow.json"
+hash = "3cf4577db4772ad60c18c4523f31ac0bcf3eadcfa8c7a257aceffb13a7210a1c"
+
+[[files]]
+file = "kubejs/data/c/tags/item/tools/crossbow.json"
+hash = "09f086b02d5f7dbf8ffc012ad40042a21105363f131a61b0976ff5635ab01a01"
+
+[[files]]
+file = "kubejs/data/c/tags/item/tools/shield.json"
+hash = "76832e0da9edbaa247cab6703f552bbc3a9f1c1fa019be575d257a51a672e2d0"
+
+[[files]]
+file = "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_colossal.json"
+hash = "1ad9404a050d76af01e484f7cc382f10af802b29afc2b96262d98b0769f4bace"
+
+[[files]]
+file = "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_farming.json"
+hash = "b1fc7a3aac3bf0cba883f65c906444083e11a4178732734376ddd62c24ebb419"
+
+[[files]]
+file = "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_giant.json"
+hash = "95a4d84b6016a4c9d54bbc4a9c7d2c86a21a0f99dbf85deceb4f10f81db3796d"
+
+[[files]]
+file = "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_large.json"
+hash = "ce33ef0fd79215388f3995887ca63dcf70273bcf7e35a5c6578b2e8a64a9bc21"
+
+[[files]]
+file = "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_normal.json"
+hash = "f6abf9bed22d17b227d88e4846c08b2874d586b62ace970a0e85f7ecb216532a"
+
+[[files]]
+file = "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_small.json"
+hash = "38243e2802c486a8026b893302fea0208c057761413def55d28fc6407087b519"
+
+[[files]]
+file = "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_soaryn.json"
+hash = "cb67d6fe0e08b452583a3ac5e638e51217c782461b149229956d6ea5446fc1ce"
+
+[[files]]
+file = "kubejs/data/compactmachines/advancement/recipes/misc/new_machine_tiny.json"
+hash = "04cb2235ca9f0243b0b69f1ae1b19b6abb562316b14e2cf8b1065adbff5d0d2c"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/colossal.json"
+hash = "c28a269847e1bdaa6db987031ea2ae79ffee0097c05cb3095fc0ba457cd977df"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/farming.json"
+hash = "e3c7c86f0eae23ba548c95579ac36f2bc2f738500796a770cda5ceea3edb8b47"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/giant.json"
+hash = "14c3199b8e1d35648023b072ce6a517e7059cecdf13591cd342bcc65d9e13d48"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/large.json"
+hash = "0070d88b49cda8e15939169d521ea42bee986e0cf9065619d8436e0d4c760d8e"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/normal.json"
+hash = "0758199a651784d778edc664ba1ceb6812af7166d76dc12f318414fe7e696785"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/small.json"
+hash = "7c4f9267bf8dd6697e38c08132f364c95cfd6c85ead29ab5351588720026b6e6"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/soaryn.json"
+hash = "94ef3ceef0ae2f20723d09beb57815c285ebc56f07d2dc5182ea474a784caea3"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/tiny.json"
+hash = "afd82b64178bf2601c42ebb92c44013b53a965ce77b4aec0f0fe4ed265404693"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_colossal.json"
+hash = "93055065a34444b2779f0d572ea29e4bb61beea96bb7478b2554f247f3b473aa"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_farming.json"
+hash = "12a365a279e7081789b7bffe5776a7b52a3d7a69525ba152ada39647a6058d88"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_giant.json"
+hash = "305f8966c1524ec7424c72f884dfa1640563487e4004efb87994883e63f85021"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_large.json"
+hash = "b0e362a83e555a067860bb99f681ca7d94d060240c7582bea1cf919a71eef783"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_normal.json"
+hash = "a90ab29b7be62d73af77a388448082e866bcd500c81ac5998ec965ccae0c34a4"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_small.json"
+hash = "28b3d7ab1d182e3dfd278ed49998681d428887cbf29f64af7d823b8ee21a4fa5"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_soaryn.json"
+hash = "10b6059140820589374353590711f0b458870c791798cc60dc727deeeaa2b77b"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_tiny.json"
+hash = "4642f835cebdc5a12fdd60dd983c16737388a6b8a8c7c83ef53897bfb1728035"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/abandoned_temple_biomes.json"
+hash = "886e22cfb756739b496d595e1489a812b44912f0dfcdb4ec4b71ceb21ca808f4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/aviary_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/bandit_towers_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/bandit_village_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/bathhouse_biomes.json"
+hash = "2c73e0ed8cf5b40eeab792d0ee36ac9fc48a78ac612b9733dc767c3960ba59b9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/ceryneian_hind_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/coliseum_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/fishing_hut_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/foundry_biomes.json"
+hash = "2c73e0ed8cf5b40eeab792d0ee36ac9fc48a78ac612b9733dc767c3960ba59b9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/giant_mushroom_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/greenwood_pub_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_challenger_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_conqueror_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/heavenly_rider_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_campsite_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_corsair_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_fort_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_galley_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_windmill_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/infested_temple_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/jungle_tree_house_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/keep_kayra_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/kisegi_sanctuary_biomes.json"
+hash = "2c73e0ed8cf5b40eeab792d0ee36ac9fc48a78ac612b9733dc767c3960ba59b9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/lighthouse_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mechanical_nest_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/merchant_campsite_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mining_complex_biomes.json"
+hash = "15c4b7e8c1b16f49d9d6dc0234b383e3a41d243a6fc21abecd43f6c15a033fa8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mining_system_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/monastery_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mushroom_house_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mushroom_mines_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/mushroom_village_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/plague_asylum_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/scorched_mines_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/shiraz_palace_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/small_blimp_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/small_prairie_house_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/thornborn_towers_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/typhon_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/undead_pirate_ship_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/wishing_well_biomes.json"
+hash = "578fb496f6cab5b0628b1cf5a86fb102879dedaa5aa012c7b5bff39642dd7a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/major_structures.json"
+hash = "ef969d7be334bae8a34c97f2068cf4bde0ff19bf6f8b3081c29a8ac6b31778b6"
+
+[[files]]
+file = "kubejs/data/hostilenetworks/data_models/warden.json"
+hash = "57e595bebb9dce5f2b476854600e260662cb3ab8854a671f50de452dde0be116"
+
+[[files]]
+file = "kubejs/data/mekanism/neoforge/biome_modifier/fluorite.json"
+hash = "953d03e100ae88f4da8fe4f1a80de8586558f53f452b209efa6dfe5771cf86a4"
+
+[[files]]
+file = "kubejs/data/mekanism/neoforge/biome_modifier/lead.json"
+hash = "953d03e100ae88f4da8fe4f1a80de8586558f53f452b209efa6dfe5771cf86a4"
+
+[[files]]
+file = "kubejs/data/mekanism/neoforge/biome_modifier/osmium.json"
+hash = "953d03e100ae88f4da8fe4f1a80de8586558f53f452b209efa6dfe5771cf86a4"
+
+[[files]]
+file = "kubejs/data/mekanism/neoforge/biome_modifier/salt.json"
+hash = "953d03e100ae88f4da8fe4f1a80de8586558f53f452b209efa6dfe5771cf86a4"
+
+[[files]]
+file = "kubejs/data/mekanism/neoforge/biome_modifier/tin.json"
+hash = "953d03e100ae88f4da8fe4f1a80de8586558f53f452b209efa6dfe5771cf86a4"
+
+[[files]]
+file = "kubejs/data/mekanism/neoforge/biome_modifier/uranium.json"
+hash = "953d03e100ae88f4da8fe4f1a80de8586558f53f452b209efa6dfe5771cf86a4"
+
+[[files]]
+file = "kubejs/data/minecraft/kubejs/recipe_schema/shaped.json"
+hash = "94fccc17893e93a844a52fa27d6c962d5d22dd07265620db032e9af1fda1b6f4"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/block/enderman_holdable.json"
+hash = "4e418ab6fec32b231f3a9f8b19b4f84b66ec22ae0478d3c203c7951df5134894"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/block/mineable/pickaxe.json"
+hash = "3e1497a0075cf4645e32d5bffebfeb7fa9559b70554a0e84d93044e7f60fc05d"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/block/needs_stone_tool.json"
+hash = "55e1c58fa7fae1d4e7cc93ce38b17729c6e911f14f1390d62c691904260e5ff3"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/item/enchantable/bow.json"
+hash = "3cf4577db4772ad60c18c4523f31ac0bcf3eadcfa8c7a257aceffb13a7210a1c"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/item/enchantable/crossbow.json"
+hash = "09f086b02d5f7dbf8ffc012ad40042a21105363f131a61b0976ff5635ab01a01"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/item/enchantable/equippable.json"
+hash = "76832e0da9edbaa247cab6703f552bbc3a9f1c1fa019be575d257a51a672e2d0"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/item/head_armor.json"
+hash = "9895ce385ec908efff52e29430796ba73e1ec45dda2c3082e5f43241bce67a56"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/data_maps/item/machine_upgrades.json"
+hash = "f2ab9ec086a1d7d01652997794c82443dfbc14c38acb6b00b7c5280793bdfbbd"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/auto_forge.json"
+hash = "4b1e9c8d697e0f9c3272fde2913393f3534c524e6a5100ba2049e6083c118392"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/ev_runic_transformer.json"
+hash = "959485d23c1fb9e931a63c33b1e50f4b885e1c2bd99c5da27e1447d5ae906cb9"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_crucible.json"
+hash = "331b282b43329f76bd50fa9f7f03b0e76e02bc6b4a5df10baf2f19c1b0e98887"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_enchanter.json"
+hash = "76cacee79047332594dad25218e1baee88877b4ae26265549b6ce3c5b6e089ad"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_energy_input_hatch.json"
+hash = "f119046204391101bcd44127312b35a2919a5263d0b926e438c6def705b72852"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_energy_output_hatch.json"
+hash = "a8b0e758eddb40568bbd8cfbf47375b1dcbdaef2cad0077cc7ad9eda9c13514b"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_ev_transformer.json"
+hash = "d1677d874a8098d23911f8fbf7d138b06dea012ff30427fc380732aa6454e4ce"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_fluid_input_hatch.json"
+hash = "07a8cb5a3d7b5cacb06bddb6db811d26c42ce102dc32af2c03606b90807bb56d"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_fluid_output_hatch.json"
+hash = "04b7d30a41d3eec75ee565834f6fafbb19db108a30d49b3a5ac08f98d7df7954"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_item_input_hatch.json"
+hash = "010dd89b9331435bbab3319d298816e2e31c8d1bfd3290ef9c785aad897997bd"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_item_output_hatch.json"
+hash = "1e5b19be256c27c479cc7804e52a0278111bda9e09b1370bac80888e06337dc0"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_storage_unit.json"
+hash = "a8b46901006a6cc7265f9f223004906762b655486c73722eccea786d8de3d859"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/runic_superconductor_transformer.json"
+hash = "ddcdec9646f3cbe5d3e7818b4854104ec2bc84e49d43808319515a515c70d97a"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/star_altar.json"
+hash = "bfe96a707a2e111de133f1d8c2a2b537fb9566a021a08bb28e0a99cbf879f908"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/loot_table/blocks/superconductor_runic_transformer.json"
+hash = "4bd6013c4ae7da98e4a8372b76b53b07f3319c25f11699291578d9fef815fa9a"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_bauxite.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_iridium.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_lead.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_lignite_coal.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_nickel.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_salt.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_tin.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_uranium.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_bauxite.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_iridium.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_lead.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_lignite_coal.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_nickel.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_salt.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_tin.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/neoforge/biome_modifier/ore_generator_uranium.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/allthemodium/assembler/drill.json"
+hash = "1495dc7b59e7fe46e9d769558c7d04e1525dfaf5733722d05b77d5a1d51f68a6"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/allthemodium/assembler/drill_head.json"
+hash = "7d22b7dafbf11ae639c5224bac8bfc0bdee7688057a175f69a3ea7707e921ce5"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/allthemodium/compressor/main.json"
+hash = "d72451e7c81beecbf743a6cbe59ab4b2e13436f7ddfbc5cd8e3c3b23df64faa2"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/allthemodium/compressor/plate.json"
+hash = "622fe6ee818b5f9e1ebddaf41d1cae03fda1b23e8b34f717a2bd70fbf3f4a3cf"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/allthemodium/crafting/drill_head.json"
+hash = "a6590499be35f99d9fdc5ae57bd36f6934a1c3bbc1d68e7148b4e068636ae524"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/allthemodium/cutting_machine/main.json"
+hash = "7a25e3af5a175c010a044d6eb45b0bee244883899f5c8f6df2951125455c6dd7"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/allthemodium/cutting_machine/rod.json"
+hash = "5ed47fefcf38b349b6c28551044f57f65b2ba9bdaff7c145f3a360e5ab598fad"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/unobtainium/assembler/drill.json"
+hash = "0347f9a3f31e4a32d2c80b7df4f2c0a885d18fc4d4609027d1f614bb639b6e84"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/unobtainium/assembler/drill_head.json"
+hash = "f65efd3018fa26e4587e2359bea8fa12895faf875ecf795f578cf5886adb5982"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/unobtainium/compressor/main.json"
+hash = "cabb8aa6fae9b6054ccba3bc1270ba518cfcb38a71e8f4969c329f2db537a63b"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/unobtainium/compressor/plate.json"
+hash = "087222b6ca7f10bf7adbb0b923c19e397aa28ba43c5b3dbaa02f28bb8dbce6cb"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/unobtainium/crafting/drill_head.json"
+hash = "0bee76e4d63699d5912de134d117458f12b004a6420d7c534727d5cc802144f2"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/unobtainium/cutting_machine/main.json"
+hash = "a96438d3af2cb21f21e9a86bc06724d00443b7c9ce7fb62ca4123292c0c91669"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/unobtainium/cutting_machine/rod.json"
+hash = "9ca2834ef0417ae13b26f49aa92cc0cca7939b4c200a2d115c3db2147db72537"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/vibranium/assembler/drill.json"
+hash = "afad27218d33a903da3a70f0b6af4e6b4aca802f4e79c75f53d56dca4618bc20"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/vibranium/assembler/drill_head.json"
+hash = "c5970cba3695c31ae5a1b05af84642ad971028ebe588e9cafe2213c1d0ce212f"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/vibranium/compressor/main.json"
+hash = "4b7d6831cd557b4c8e4480f66767b966237172dcb44adf0a3e9722bbd458b54f"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/vibranium/compressor/plate.json"
+hash = "bcaf7675a357bd956b4495c59e1c87ca3efe0df6f011ce8db9a5ec7f99a25ec1"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/vibranium/crafting/drill_head.json"
+hash = "e5aca248af5e24d309380c05405e74541925fa479c1b5892cc8641259a0d6426"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/vibranium/cutting_machine/main.json"
+hash = "555bf975f3002cf803af6360b3882aedf07999a8c6a288f7c2afa05a91cab495"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/materials/vibranium/cutting_machine/rod.json"
+hash = "44c8e1131365ac33bcb3f57ddf81340189d6a0bce4b652b21580fe2f7f5e18a8"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/quarry/allthemodium.json"
+hash = "981b095973f68289386e4892d805bd2fd096c2f6c79f5b20e0bac06edcbaa578"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/quarry/unobtainium.json"
+hash = "b67e3b5fae64fc1c14efe6596cf62054df4384906c7c1269719ebdbfe931be13"
+
+[[files]]
+file = "kubejs/data/modern_industrialization/recipe/quarry/vibranium.json"
+hash = "1d21e4064f27cd375fb76a5e6a9a9ba5f50521a0cc2d77abf77f391d00f3727f"
+
+[[files]]
+file = "kubejs/data/oritech/neoforge/biome_modifier/ore_nickel.json"
+hash = "3b5f3f7309d33dd335f65e407d1aeb229265ee9355de67cadbf080cd2d81bef6"
+
+[[files]]
+file = "kubejs/data/oritech/neoforge/biome_modifier/ore_platinum.json"
+hash = "3b5f3f7309d33dd335f65e407d1aeb229265ee9355de67cadbf080cd2d81bef6"
+
+[[files]]
+file = "kubejs/data/oritech/recipe/pulverizer/coal.json"
+hash = "e7630c578c2e41839a695dd45e835f777605027a8968161e63b634befd5f8450"
+
+[[files]]
+file = "kubejs/data/oritech/worldgen/configured_feature/resource_node_common.json"
+hash = "35e2d12df5d0da6a840d1b5275e5129e69cae7e910609cbb345a09517e4ad527"
+
+[[files]]
+file = "kubejs/data/oritech/worldgen/configured_feature/resource_node_rare.json"
+hash = "df743858078384a7702d068f219a87d5c017c06a6707bc276547de3805d885cc"
+
+[[files]]
+file = "kubejs/data/pamhc2trees/loot_table/blocks/pamavocado.json"
+hash = "721554a952b4bc1e4ea8b96069334b6b990cbaa96a4e696770d33356dd529425"
+
+[[files]]
+file = "kubejs/data/powah/data_maps/fluid/heat_source.json"
+hash = "1f7f7365104f9cff720865c0942a325732fd528c2cd0e3bb806dc117bcc4bfc5"
+
+[[files]]
+file = "kubejs/data/powah/data_maps/fluid/magmator_fuel.json"
+hash = "dcc67c61af838a100e36c2cba47d7f11b4e2bbd99a38f332bb817579f0a8e4cc"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_lead_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_nickel_ore_middle.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_nickel_ore_small.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_nickel_ore_upper.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_silver_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_silver_ore_lower.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_sulfur_ore_lower.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_sulfur_ore_upper.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_tin_ore_large.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_tin_ore_small.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/railcraft/neoforge/biome_modifier/add_zinc_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/arrow_heads.json"
+hash = "69bcf55c53dac3f682f01fb1ebd48e2c473d4673b17fda8bc2fef1d99bea3d01"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/axe_head.json"
+hash = "1060a383dbced727cfb302ac95cddc20da86136d149c871b0616acd2f973e80c"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/boot_plates.json"
+hash = "0859043e30e32d0f8a6abc9c4c10e3b0d2e965ead406673451badf605d3d7677"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/bow_limbs.json"
+hash = "89c1d7500064c64e825c83fd657262320a0da241aa86970a61c2519141b1ba45"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/bracelet_band.json"
+hash = "be5023109b4d2b105665313d25c8dbbd6b523328edd7fc75f6a6fec4c7d11faa"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/chestplate_plates.json"
+hash = "ac761c51c1802b4af647cf189702547d9b091720ef518c3b34dcf7938298c8e0"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/crossbow_limbs.json"
+hash = "d60c8dfceefac32e4260a300923e12cffaf5730eafe91f7ceb8565f248db6189"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/dagger_blade.json"
+hash = "d5b0e21df2150a3a8e4366215f6ca6fa89cc14b0bf55b78c55ba8f2be1732a25"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/excavator_head.json"
+hash = "53d37204b18ad87516f7617a854e4e14e5a1d261b2e49f58e3dd4608bd0fa9cf"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/fishing_reel_and_hook.json"
+hash = "3d433a2635ebc7d4db5ec8f3f8fd6780219b6877f513a85eb18ce84310c59ff9"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/hammer_head.json"
+hash = "3910a7430ace5f1b35a21dd9831adba861e4bb07b695204af7e0360d61309561"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/helmet_plates.json"
+hash = "3a7b46a27920ae8f0229e0c9910bf432302670ca5bfa3165f04174aaf6147e43"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/hoe_head.json"
+hash = "23d6f3588a3be8fc79750e236f1d641c02887883d22a263a1e2917ce13d6aa70"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/katana_blade.json"
+hash = "c24c039d3c0f54ec5c0a9abe7466d585d406f13dfc294d950979ce56fd1906f3"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/knife_blade.json"
+hash = "a2e513fc9b336a5000e5c63a3e99aa5b19809af814864d2dc4cf578ae260b1b7"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/legging_plates.json"
+hash = "b06ebb22924a991463781059886e83f6272cecf50f858135154b7e92ba730821"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/mace_core.json"
+hash = "9b316e72798c2dbf27c5a198a147cbc1e20df03041efe81fc8a172199bf07cdc"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/machete_blade.json"
+hash = "8af3bf423e379553a0cb2abec878ca208835b066b5403b4552b1943da3bf45d4"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/mattock_head.json"
+hash = "a4a4648bd632978d905e288523bbfccda69fe58beea19967440341738a920b92"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/necklace_chain.json"
+hash = "cecbe8c8426f0f74330f10fd66b670f96f21db7bf349c7adb0154b0253e9ae38"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/paxel_head.json"
+hash = "9879a7d619eaa87bbc4962eb86ba2fe385c6e3466d62ca6f0c7c82d28f98381a"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/pickaxe_head.json"
+hash = "00f43eeaad6c9db15fc93542e237723420aa4653723520ebe79bdd26e1d40707"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/prospector_hammer_head.json"
+hash = "c8352a647f8a95006992dcbb0ed0b51d4343acc80498ecada672df66fa781ee0"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/ring_shank.json"
+hash = "d74fd94ae96c747ba48d0a9b3d35f9b50a3d91564bd6af16ca6897ac7a4b1af9"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/saw_blade.json"
+hash = "db695258d27b13b6b92b6df6ce97756e7cc031fb8e944068b5b99b74a810256d"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/shear_blades.json"
+hash = "1dcda750a62ec98a61c0c28710f3b63064baa828c2bdae6303a9c8b4169fa37a"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/shield_plate.json"
+hash = "052599a588dd2d63a82887941b4dd12aaba9e58870c5b5ffd69c4fd1b886db7e"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/shovel_head.json"
+hash = "6d168fbeaf4e3ac5fb27d408fff9091eb8ebaf18f1b1f0e24d6ed6c5be12abe8"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/sickle_blade.json"
+hash = "b3d10b44da3f1d8476a2752bc66b1136fef8a01b2a19bcb5b8154a6f2208e5e0"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/slingshot_limbs.json"
+hash = "e10ba0d843ecd29c395b4866d7efce30082ccd0d1466e6c1bb227e49f1058da9"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/spear_tip.json"
+hash = "578a31b830fc958d3c1dc5211ff4c647b0ffb1dec921d3f5ceb18b8cf9694342"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/sword_blade.json"
+hash = "4725ff577b2135729b89add3898e29756cbb9bc8e32eced013b81fa4922110b6"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/recipe/casting/uru/trident_prongs.json"
+hash = "8225c406766302e54c99b484b8806292c69c93a595e3ee1aa88e65d65ba1dfcd"
+
+[[files]]
+file = "kubejs/data/sgearmetalworks/silentgear_materials/uru_metal.json"
+hash = "cc9ef6b80c57a9c532049b3ad8dc4d61773937aecbcb74ead1042d9598e19ceb"
+
+[[files]]
 file = "kubejs/data/silentgear/silentgear_materials/allthemodium.json"
 hash = "6813870485b8c95bf3d2cd57dbaeccb4ad081fbb28b1bda4a88968acd7aab4b9"
 
@@ -337,6 +1225,30 @@ file = "kubejs/data/silentgear/silentgear_materials/vibranium.json"
 hash = "6331bbc7b4ecc3b56493dfaee4f0ff529503cafa85dbef1348a333489f568437"
 
 [[files]]
+file = "kubejs/data/silentgear/silentgear_traits/advanced_aquatic.json"
+hash = "b92adfff52919b7574b85a38b4572d1ffcaf4b933957cfa9c44e14e62cc3bacc"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_traits/advanced_flame_ward.json"
+hash = "a246ebc2c118f54d127edae5a223ecfad951a9eac8ceb853cb94b9bffd75cdc5"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_traits/cure_levitation.json"
+hash = "7cbce2d94510c6170f792145aafbab77910de17e523e7fe07a2943dff1b771f8"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_traits/cure_nausea.json"
+hash = "c75215259f69646825be2cdf253fd4f5ebc4973001509558099ec00ae9ea1c42"
+
+[[files]]
+file = "kubejs/data/xycraft_machines/recipe/extractor/enderio/grains_of_infinity_campfire.json"
+hash = "b2cf90812751556667c4a71c7507bc58353e27676fd4bbe5c503d6d7aaa569d7"
+
+[[files]]
+file = "kubejs/data/xycraft_world/neoforge/biome_modifier/ore_aluminum.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
 file = "kubejs/server_scripts/modpack/atm_alloys.js"
 hash = "e83b608fadd68608b27becd725d65cdbe5a8012abfb32feed9b2b8b9a1701f16"
 
@@ -346,7 +1258,7 @@ hash = "87b011a267659123ab57fb307a14d837d29d2ad4fa02bcfc4344f6591db256a3"
 
 [[files]]
 file = "kubejs/server_scripts/modpack/mining_dim.js"
-hash = "1a5bee086b93f163d53c6d2fcd5f854c290cfee5ca9dd1fa8a3e1f659ea5f9a8"
+hash = "285161586e97699d07949a488435a435fbf4449b2bef98e59efabb1b35138bbc"
 
 [[files]]
 file = "kubejs/server_scripts/mods/advancedae.js"
