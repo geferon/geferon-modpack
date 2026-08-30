@@ -737,6 +737,58 @@ file = "kubejs/data/hostilenetworks/data_models/warden.json"
 hash = "57e595bebb9dce5f2b476854600e260662cb3ab8854a671f50de452dde0be116"
 
 [[files]]
+file = "kubejs/data/industrialforegoing/kubejs/kjs71/recipe_schema/dissolution_chamber.json"
+hash = "047af9202a0bafac7c7e571492cf5828fb5aa7cd2fa75f0fcac2fdb01bb26bf5"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/kubejs/kjs71/recipe_schema/fluid_extractor.json"
+hash = "c597911a75d9958ee30ac4df255726ce3a63b355dba4c05c13577a2fc797bea2"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/kubejs/kjs71/recipe_schema/laser_drill_ore.json"
+hash = "bc5b06ceadce83d93a8908100c7a1624e6b555784743d92fe98e0554ef2da2f4"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/kubejs/kjs72/recipe_schema/dissolution_chamber.json"
+hash = "4471f76fc23f9a991bf490f6831b55db6444b7dfe4e3715c483b6078ed04ab6a"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/kubejs/kjs72/recipe_schema/fluid_extractor.json"
+hash = "1fb75e59f90b2f65a23abf9884a4e95becb360002be469bb14d947a5fd9d9923"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/kubejs/kjs72/recipe_schema/laser_drill_ore.json"
+hash = "2851c17fd8b207acf3ed76dfffdfcda42e6056fcb4c323e56cc6c465fc775292"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/azure_silver.json"
+hash = "128ba2468ba8e1f0940a632f63771e79211c609ce2a870e662a16f88aa5c1c98"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/glowstone_dust.json"
+hash = "9ba5909c57684408c9389368781897b73e423c14c5fb9fb5c1460dc780798a53"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/obsidian.json"
+hash = "b1a41cf6c3ec00a02ee54d3fa866d45f069b6a31c1c60d3f8ff1a0f840197967"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/raw_allthemodium.json"
+hash = "7c163e0a9875e21958d3868c575caaf09c8609d3e1991f6f61a51859e3db91ee"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/raw_unobtainium.json"
+hash = "4dbb9daa9b1aafbee0da2b1b0a9e38c610e44565a059cd854d74c268b44f83b2"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/recipe/laser_drill_ore/raw_materials/raw_vibranium.json"
+hash = "5246e4a6d4c36c1786b7e1489e70ad18f4f5b9b2b4fd70873302e1ccac8444e2"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/recipe/stonework_generate/deepslate.json"
+hash = "ec50859f582dc5935b1b1fdb93349f27e447b245736543ed3ff9a0da20a5f5c7"
+
+[[files]]
 file = "kubejs/data/mekanism/neoforge/biome_modifier/fluorite.json"
 hash = "953d03e100ae88f4da8fe4f1a80de8586558f53f452b209efa6dfe5771cf86a4"
 
@@ -1270,7 +1322,7 @@ hash = "e812e95aa0a133f41e53087ac30a80a4b8156c960783d93e462253a01fc6d8c4"
 
 [[files]]
 file = "kubejs/server_scripts/modpack/mini_portals.js"
-hash = "9be6d49bf29e4097acff0dcb84257e5b345b3fbeae441c2a380fd8f44fb7b868"
+hash = "539211364f6c6b8c8330ff58a94e08f7f1243f820c3ecd36047885769c86802d"
 
 [[files]]
 file = "kubejs/server_scripts/modpack/mining_dim.js"
@@ -1582,6 +1634,11 @@ hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
 
 [[files]]
+file = "mods/allthecompressed.pw.toml"
+hash = "712bb680e8d2777df81218586fa0725b8a90b4b1e2d1d2b1547cc91b21773638"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "bb6f1ed9e7a09d936a0a8028d3332eb0b892f8fddfdf1d46ef0bd71b8d1ebb21"
 metafile = true
@@ -1634,11 +1691,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "93c413ff9f724a5e296b5fd628e652af46bef38bcc2d9f720546797c96700f52"
-metafile = true
-
-[[files]]
-file = "mods/async.pw.toml"
-hash = "176f5dc52a0d2338047c2a7fcbf3122be0d8cbcc28f83dbf64fe22d2cc676eda"
 metafile = true
 
 [[files]]
