@@ -37,6 +37,10 @@ file = "config/maplink/general.json5"
 hash = "afefa0bf77ecf58ceea3423d47fd5f269f58abf82233d6b01e60246aabc12554"
 
 [[files]]
+file = "config/rctmod-server.toml"
+hash = "2a69f7d476abbe215b605ca60005aa8bfbbfc20877afe71f7126f0276c799d54"
+
+[[files]]
 file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
 hash = "6e4016a7d03f1d1db43fa425430a5cc20d84099310bc0bd7b505d025553e6c69"
 
