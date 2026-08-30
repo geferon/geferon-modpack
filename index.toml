@@ -17,6 +17,10 @@ file = "config/aether-startup.toml"
 hash = "d73589c763bf76634a796a80a71a315e00e18366211c402f857f1374cab27faf"
 
 [[files]]
+file = "config/cobblemon/main.json"
+hash = "92128a551c39400e010ecd177a0d6d46fff24be593ec2ae36ce60dc7a5ac65a8"
+
+[[files]]
 file = "config/cumulus_menus-client.toml"
 hash = "b82f5aef193bd64d86e58ac5a0b5b6b9b4976a137584d783a86798b574231664"
 
@@ -1358,7 +1362,7 @@ hash = "1039db60fb61c987470a5e6646d4370e6b3dcf58a053d46bf0895387d2efbcb2"
 
 [[files]]
 file = "kubejs/server_scripts/mods/enderio.js"
-hash = "ef70ff028961568fbbd627f91ab7bd0e868ac5bfc2ca351173f5c4a34f26536a"
+hash = "a79689ee12678ea41993229145331cf609a3d0e4a69d92d5b0e2e543facac168"
 
 [[files]]
 file = "kubejs/server_scripts/mods/enderman_overhaul.js"
@@ -1390,7 +1394,7 @@ hash = "94ef2dd7af450bd4eab68d3865e7fe530c7c94e84eee45f11db491b1c38d2869"
 
 [[files]]
 file = "kubejs/server_scripts/mods/immersiveengineering.js"
-hash = "27382c0f17b67ee5bf61f70df7bbc685a5c8ceea02343fc2ea167ab23f4673f2"
+hash = "54c37c7d17c1f44b1371f8fc5e6137202187829b350bac8115cd211cc6415053"
 
 [[files]]
 file = "kubejs/server_scripts/mods/industrialforegoing.js"
@@ -1509,6 +1513,26 @@ file = "kubejs/server_scripts/mods/xycraft.js"
 hash = "dd3b717b1dcfda509344fa0b77f9221c8262cf18bb39b5dca5adef8f9c25817d"
 
 [[files]]
+file = "kubejs/server_scripts/tweaks/clearing_recipes.js"
+hash = "6f45dbec723b7d58e3d3175f406eb2defb4ec92209ddfcbd7547641813b146a4"
+
+[[files]]
+file = "kubejs/server_scripts/tweaks/disable_mons.js"
+hash = "0e1b0906ea5748a9a3c6fde8cc8cfb18cdbf15aebe5715493498634a94dd8155"
+
+[[files]]
+file = "kubejs/server_scripts/tweaks/fix_death_bug.js"
+hash = "a69e1c9028d4dd39488f8912a7016737af29bc1f07bba13635c483b1d9f86e49"
+
+[[files]]
+file = "kubejs/server_scripts/tweaks/recipes.js"
+hash = "404af5d732de649a3e07f0472d924d43a77192fc97ee66073b5466048013d0d0"
+
+[[files]]
+file = "kubejs/server_scripts/tweaks/tags.js"
+hash = "548f87fafbe0ce3635032fedd635e4f8a98d3b807c37b388a74c31bd0fa62385"
+
+[[files]]
 file = "kubejs/server_scripts/unification/coke.js"
 hash = "b25df1d2127f0489f7885806c7f36a9564ad1b68056ed93d4c8a431bfae377bf"
 
@@ -1535,6 +1559,10 @@ hash = "98b320b284408d2f32bcdb0e6903b3a356838017cca31981828f49053b5635a6"
 [[files]]
 file = "kubejs/startup_scripts/applied_energistics.js"
 hash = "b6ac8061192a5102e7f870320c64e7bba8467ba9e54e7bfffcebe90501101910"
+
+[[files]]
+file = "kubejs/startup_scripts/cobblemon.js"
+hash = "0771b2868e3a24fd05674a82cbb26a0cfe250f8a3ab8eb984434132ab8ed0346"
 
 [[files]]
 file = "kubejs/startup_scripts/customadditions.js"
@@ -3234,6 +3262,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
+file = "mods/packing-tape.pw.toml"
+hash = "70d6605eb0893162d3deea55392cf75fdd595e7c7bd88d093b705998671e61de"
 metafile = true
 
 [[files]]
