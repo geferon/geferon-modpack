@@ -140,8 +140,7 @@ ServerEvents.tags('entity_type', allthemods => {
         'create:package',
         'mekanism:robit',
         '#c:bosses',
-        '@cobblemon',
-        '@rctmod'
+        '@cobblemon'
     ])
 
     allthemods.add('enderio:soul_vial_blacklist', '#allthemods:jank_blacklist')
@@ -151,10 +150,8 @@ ServerEvents.tags('entity_type', allthemods => {
     // allthemods.add('mob_grinding_utils:no_spawn', '#allthemods:jank_blacklist')
     allthemods.add('enderio:spawner_blacklist', '#allthemods:jank_blacklist')
     allthemods.add('oritech:spawner_blacklist', '#allthemods:jank_blacklist')
-    allthemods.add("c:capturing_not_supported", ['@cobblemon', '@rctmod'])
+    allthemods.add("c:capturing_not_supported", ['@cobblemon'])
     //allthemods.add("industrialforegoing:mob_imprisonment_tool_blacklist", "#c:capturing_not_supported")
-
-    allthemods.add("ftbchunks:entity_interact_whitelist", ["rctmod:trainer", "rctmod:trainer_association"])
 });
 
 ServerEvents.tags('worldgen/structure', allthemods => {
