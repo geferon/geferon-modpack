@@ -262,15 +262,15 @@ ServerEvents.recipes(allthemods => {
         'mekanism:pellet_polonium',
     )
     //Magnetic Attraction
-    allthemods.remove('mekanism:module_magnetic_attraction_unit')
-    hardModuleRecipe(
-        'mekanism:module_magnetic_attraction_unit',
-        'mekanism:alloy_reinforced',
-        'mekanism:elite_control_circuit',
-        '#c:storage_blocks/redstone',
-        'simplemagnets:basicmagnet',
-        '#c:storage_blocks/allthemodium',
-    )
+    // allthemods.remove('mekanism:module_magnetic_attraction_unit')
+    // hardModuleRecipe(
+    //     'mekanism:module_magnetic_attraction_unit',
+    //     'mekanism:alloy_reinforced',
+    //     'mekanism:elite_control_circuit',
+    //     '#c:storage_blocks/redstone',
+    //     'simplemagnets:basicmagnet',
+    //     '#c:storage_blocks/allthemodium',
+    // )
     //Frost Walker
     allthemods.remove('mekanism:module_frost_walker_unit')
     hardModuleRecipe(
