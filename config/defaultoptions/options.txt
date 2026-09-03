@@ -1,2 +1,4 @@
 guiScale:2
 darkMojangStudiosBackground:true
+resourcePacks:["vanilla","fabric","mod_resources","add_xycraft_overrides_stone","add_xycraft_overrides_metal","add_xycraft_overrides_glass","moonlight:merged_pack","mod/knowlogy:resourcepacks/1.0.0_minecraft","mod/knowlogy:resourcepacks/1.21.0_tricky_trials","mod/cobblemon_knowlogy:resourcepacks/cobblemon","mod/cobblemon_knowlogy:resourcepacks/cobblemon_1.7","mod/cobblemon_knowlogy:resourcepacks/cobblemonpokenav","file/FreshAnimations_v1.10.4.zip","file/Better_Cats_V0.09.zip","file/[NeoForge] Mekanism CTM-Fusion 1.1.zip","file/Mini\u0027s Cobblemon 1.7 Icons v2.1.zip"]
+incompatibleResourcePacks:["file/Better_Cats_V0.09.zip","file/[NeoForge] Mekanism CTM-Fusion 1.1.zip"]

@@ -17,6 +17,10 @@ file = "config/aether-startup.toml"
 hash = "d73589c763bf76634a796a80a71a315e00e18366211c402f857f1374cab27faf"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "8a1807e69a525f79f28e652a160b6c9be3ebb6f1e52997631278c97542dccd1e"
+
+[[files]]
 file = "config/cobblemon/main.json"
 hash = "92128a551c39400e010ecd177a0d6d46fff24be593ec2ae36ce60dc7a5ac65a8"
 
@@ -30,7 +34,7 @@ hash = "5fae71b2b9de125cb2d061271b0ff6d6fb2bde72e8ed7700313dd7309eb18425"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "5765e010cf6ee3f0bfb654c21e441732fcdad4363bcc8b4200e92ece558e3773"
+hash = "12446bf0de5c249430069fa362c52a94fe391d5aaf048406a1cd57ab9a92cf59"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -2696,6 +2700,11 @@ hash = "a1c7bbaa1a007909fe408ccd54a069e7c8783d01359c9f0a5dc6288056d1e9c3"
 metafile = true
 
 [[files]]
+file = "mods/gtp.pw.toml"
+hash = "b705c1176171d21c64ca63de1f43f7b705085584c79990befa87e0880255ae2c"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
@@ -3736,6 +3745,11 @@ metafile = true
 [[files]]
 file = "mods/voltaic.pw.toml"
 hash = "27645fd773dff44b90c84a80f1ebd1878a889a1f04fcb777aacca626ec30727c"
+metafile = true
+
+[[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "1d597929bb8daed68ef5d3d098d6b3a8e3f8cc47940dc13647c79c449dfa79e6"
 metafile = true
 
 [[files]]
