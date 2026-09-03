@@ -1,13 +1,13 @@
 name = "EMI++ Forked"
-filename = "remi-neoforge-1.21.1-4.6.3.jar"
+filename = "remi-neoforge-1.21.1-4.6.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/N9WucjHL/versions/Lf9yYMeo/remi-neoforge-1.21.1-4.6.3.jar"
+url = "https://cdn.modrinth.com/data/N9WucjHL/versions/iD3qo5OB/remi-neoforge-1.21.1-4.6.6.jar"
 hash-format = "sha512"
-hash = "fdd8eae290256bd385505ac2ff8d86d20d39c620080736b713d036b9c06ad1a9df5129202efa475f77a3543413b3e856bbce4b36d85e63ddd9ec80bcf7dfdbca"
+hash = "5ae6cfed88a10f6956edbf12e1942a3387c9b9320a6a085322e4adbeb2a1c180e4f7f097a18355ef359a07d3f95d559e0bc453e452cd0bcd988b4a19311dfcc4"
 
 [update]
 [update.modrinth]
 mod-id = "N9WucjHL"
-version = "Lf9yYMeo"
+version = "iD3qo5OB"
