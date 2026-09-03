@@ -182,14 +182,6 @@ ServerEvents.recipes(allthemods => {
         ticks: 10,
     })
 
-    extractor({
-        output: { item: "mysticalagriculture:soulstone_cobble", count: 1 },
-        target: { type: "xycraft_core:block_rule", block: "mysticalagriculture:soulstone_cobble" },
-        catalyst: { type: "xycraft_core:block_rule", block: "mysticalagriculture:soulstone_smooth" },
-        ticks: 30,
-        directions: ["down"]
-    })
-
     allthemods.remove("xycraft_machines:compat/mek/processing/aluminum/dust/from_dirty_dust")
 })
 

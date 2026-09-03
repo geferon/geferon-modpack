@@ -1330,7 +1330,7 @@ hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
 
 [[files]]
 file = "kubejs/server_scripts/modpack/atm_alloys.js"
-hash = "e812e95aa0a133f41e53087ac30a80a4b8156c960783d93e462253a01fc6d8c4"
+hash = "c3c6e16b52b27e172fcf29eea19acd65c8258c8b9c12aea11d3f6b504eefbcbe"
 
 [[files]]
 file = "kubejs/server_scripts/modpack/mini_portals.js"
@@ -1402,11 +1402,11 @@ hash = "94ef2dd7af450bd4eab68d3865e7fe530c7c94e84eee45f11db491b1c38d2869"
 
 [[files]]
 file = "kubejs/server_scripts/mods/immersiveengineering.js"
-hash = "54c37c7d17c1f44b1371f8fc5e6137202187829b350bac8115cd211cc6415053"
+hash = "2bee9cf3cc274050e60fc7ebb3abec4c349444c6fc4cd23e9a6cbf45d82e933e"
 
 [[files]]
 file = "kubejs/server_scripts/mods/industrialforegoing.js"
-hash = "297689cc6a1403f1bf06a73e000340d94d81832a75ff02b8c93250dfd04602a5"
+hash = "efc41861688c68f9d23ba314ecfee9bd2efbebb69eb25461f9e6742d0d4cf515"
 
 [[files]]
 file = "kubejs/server_scripts/mods/megacells.js"
@@ -1478,7 +1478,7 @@ hash = "5fa8f023e37a1ed2621d38c321d9642e8482d3472c5aecdafe21c3f5ddb68460"
 
 [[files]]
 file = "kubejs/server_scripts/mods/oritech.js"
-hash = "cb2f600a512e3482e1bc99606138570e81087d71cd80f78ad91e05b16e3432da"
+hash = "4f3eaead06d85897399d3edff0a97786ab339a1423f0c92cfcdff18553e121dc"
 
 [[files]]
 file = "kubejs/server_scripts/mods/pamsharvestcraft.js"
@@ -1502,11 +1502,7 @@ hash = "2b1dec178ecb72010cae3381209937352a871e49b14a75a7c1bbd8a6ab1aca22"
 
 [[files]]
 file = "kubejs/server_scripts/mods/silentgear.js"
-hash = "6b9c5605d8b72a270b39d4786b045b9f98f4c0db9e3c0467270752d9e3ff979d"
-
-[[files]]
-file = "kubejs/server_scripts/mods/sushigocrafting.js"
-hash = "ee35690652b755da4f84971560444dc3d94dc7121996c7127fefbb770e0e02f2"
+hash = "d90dc9d9e1e50c802775dedfb5b2e81142a39e291be5ff6e0c8a666f2df30b01"
 
 [[files]]
 file = "kubejs/server_scripts/mods/utilitarian.js"
@@ -1514,7 +1510,7 @@ hash = "6d11a225fb5431f301372ddeba29bec081a5158bd935ffe4a1d4eec511287085"
 
 [[files]]
 file = "kubejs/server_scripts/mods/xycraft.js"
-hash = "d91a6d89607657101b71b27f1db7d9aafe1482c3ed9a582439a8408fd3639ed2"
+hash = "2598831525090840190609ab60b96667183d01a5fd632169d6877685aa6b5989"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/clearing_recipes.js"
@@ -3139,6 +3135,11 @@ hash = "096a419c3be0fb56ea9ae7b9d0da0aabf62fbdebb91d62eafb9c7500f2cc7e6b"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
 hash = "8cd841c728c5b07e9b90fb65e57c67f3dd06e95bef570feb106ac2b191ded654"
 metafile = true
@@ -3180,7 +3181,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisiumed.pw.toml"
-hash = "6617fcfcc40e37ab36013bc26f6b7df69ae312ed168a115f3f21ad5cd0ad043b"
+hash = "9be02933f7ad53859be09828182fbd1ef9002445f05a748d7e8274ef14e480c2"
 metafile = true
 
 [[files]]

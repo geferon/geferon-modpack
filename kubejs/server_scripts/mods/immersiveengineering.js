@@ -99,13 +99,6 @@ ServerEvents.recipes(allthemods => {
         cloche(crop, mod)
     })
 
-    //Sushi seeds
-    const sushiPlants = [{ seed: 'soy_seeds', render: 'soy_crop', result: 'soy_bean' }, { seed: 'wasabi_seeds', render: 'wasabi_crop', result: 'wasabi_root' }, { seed: 'sesame_seeds', render: 'sesame_crop', result: 'sesame_seed' }, { seed: 'rice_seeds', render: 'rice_crop', result: 'rice' }, { seed: 'cucumber_seeds', render: 'cucumber_crop', result: 'cucumber' },]
-    sushiPlants.forEach(crop => {
-        let mod = 'sushigocrafting:'
-        cloche(crop, mod)
-    })
-
     //Silentgear seeds (needs flax too, 3 outputs)
     const silentPlants = [{ seed: 'fluffy_seeds', render: 'fluffy_plant', result: 'fluffy_puff' }]
     silentPlants.forEach(crop => {

@@ -1,4 +1,5 @@
 ServerEvents.recipes(allthemods => {
+    if (!Platform.isLoaded('industrialforegoing')) return
     // input[], input_fluid, processing_time, output, outputfluid
     let dissolution_chamber = allthemods.recipes.industrialforegoing.dissolution_chamber
 

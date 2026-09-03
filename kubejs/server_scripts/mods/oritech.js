@@ -112,5 +112,8 @@ ServerEvents.recipes(allthemods => {
         "time": 1080
     }).id("oritech:foundry/alloy/compat/enderio/redstonealloy")
 
+})
+
+ServerEvents.tags('fluid', allthemods => {
     allthemods.add('c:fuels/crude_oil', 'oritech:still_oil')
 })
