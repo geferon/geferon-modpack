@@ -1586,7 +1586,7 @@ hash = "0771b2868e3a24fd05674a82cbb26a0cfe250f8a3ab8eb984434132ab8ed0346"
 
 [[files]]
 file = "kubejs/startup_scripts/customadditions.js"
-hash = "982a591b99639532b03e03dceaa996362a56e4b909011eb0dac2686a35146b32"
+hash = "625dc7ff6db9dfb577136f5668133805c98d1928a7aa62b75af19a19f75fb18c"
 
 [[files]]
 file = "kubejs/startup_scripts/farmersdelight.js"
