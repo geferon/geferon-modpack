@@ -17,6 +17,22 @@ file = "config/aether-startup.toml"
 hash = "d73589c763bf76634a796a80a71a315e00e18366211c402f857f1374cab27faf"
 
 [[files]]
+file = "config/almostunified/duplicates.json"
+hash = "327596d4c16505556a15d747d7948de37505c825017f0583cab13573907c06a0"
+
+[[files]]
+file = "config/almostunified/placeholders.json"
+hash = "7ea26d4553497330d52a291a49d3bcd486abbcd63ae3a249ad5d3d5b56f10f53"
+
+[[files]]
+file = "config/almostunified/tags.json"
+hash = "f0fcd4a758d7372ea803794abe40448f78bb7165c3bcf4851d81ee59d7abb85a"
+
+[[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "be2be8a3ca8295e009a92ea7cd42917f19ecaf46197cacff68d4e39206ad5433"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "8a1807e69a525f79f28e652a160b6c9be3ebb6f1e52997631278c97542dccd1e"
 
@@ -3611,6 +3627,11 @@ metafile = true
 [[files]]
 file = "mods/stellarview.pw.toml"
 hash = "bfbae645c9ab19d3e3b5ef5bc0929774462da167f76d2cbcda117b80f9dc55e3"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "0f4f506b1171a3a7d7b73150721075f5b1bc703c043fa539bcdd72c93e665b94"
 metafile = true
 
 [[files]]
