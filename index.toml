@@ -57,6 +57,10 @@ file = "config/fancymenu/options.txt"
 hash = "7d344bc0e4b17014290c3e7570a7505099de513f28b51cf6319919d75b465b3f"
 
 [[files]]
+file = "config/logprot.json"
+hash = "51b9f67f78befa73d43fda75e4c920b15c6cdcdb33b3e5db698af0fc54af5173"
+
+[[files]]
 file = "config/maplink/general.json5"
 hash = "afefa0bf77ecf58ceea3423d47fd5f269f58abf82233d6b01e60246aabc12554"
 
@@ -1859,11 +1863,6 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
-metafile = true
-
-[[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "8eeaf5023a8c5978f68ecd71d09ac46516167111ab2f46ab2c3909b8f9283f92"
 metafile = true
 
 [[files]]
