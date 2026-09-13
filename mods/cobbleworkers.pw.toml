@@ -1,13 +1,13 @@
 name = "Cobbleworkers"
-filename = "cobbleworkers-neoforge-2.0.5+1.7.0.jar"
+filename = "cobbleworkers-neoforge-2.0.5+1.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/i3XVG2gn/versions/tjHzDTL4/cobbleworkers-neoforge-2.0.5%2B1.7.0.jar"
+url = "https://cdn.modrinth.com/data/i3XVG2gn/versions/XMnis0fw/cobbleworkers-neoforge-2.0.5%2B1.8.0.jar"
 hash-format = "sha512"
-hash = "a331f2bed5f49c4907eda57f5803737da2b00abe806eb0b19c9ec5015a1e96e37a331899f638cdb66f5fce9a04344f7775aad0e6549f904e623f70ce5d2bed32"
+hash = "db6d9d99975644984862e33731629b302f5559423c05143039ee4f4de66ab7aeb8b3c6ca0d4b746ab615bdc95213a6e5c931ccbe14e4e3677a2af6800dfe7ff1"
 
 [update]
 [update.modrinth]
 mod-id = "i3XVG2gn"
-version = "tjHzDTL4"
+version = "XMnis0fw"

@@ -1,13 +1,13 @@
 name = "Mini's Cobblemon Icons"
-filename = "Mini's Cobblemon 1.7 Icons v2.1.zip"
+filename = "MCI's v3.0 Beta 0001-0065.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iIIbkTgO/versions/IHd7v19y/Mini%27s%20Cobblemon%201.7%20Icons%20v2.1.zip"
+url = "https://cdn.modrinth.com/data/iIIbkTgO/versions/J48ztVCe/MCI%27s%20v3.0%20Beta%200001-0065.zip"
 hash-format = "sha512"
-hash = "9bbe79a9eba9c5faa56ea7e439324882e46813b583201b3307e0abe2d55c534bd0c9120848e4f114e840b4c6b12e9f018eb73cd71a349f600d9bb4b1c44fd07a"
+hash = "26c4e4425d26012c4d04f6ade1343d59442b64c570489537528dc66164a7559500dff32a6e7b201bc53f87b69d732e17c83c85cab9dd7e872a6278f2f532c77c"
 
 [update]
 [update.modrinth]
 mod-id = "iIIbkTgO"
-version = "IHd7v19y"
+version = "J48ztVCe"
