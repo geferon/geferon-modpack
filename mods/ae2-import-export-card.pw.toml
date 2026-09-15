@@ -1,13 +1,13 @@
 name = "AE2 Import Export Card"
-filename = "ae2importexportcard-1.21.1-1.7.1.jar"
+filename = "ae2importexportcard-1.21.1-1.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qelfSMnn/versions/DUObGlCJ/ae2importexportcard-1.21.1-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/qelfSMnn/versions/xJ3k4Pvg/ae2importexportcard-1.21.1-1.8.0.jar"
 hash-format = "sha512"
-hash = "883ec114b6eead2c0eff408901a90056e2c7e195b9b61e9f92edd8766e49f0941f8124398e9a7239a562d544492d754a249f9a2ab8dd44b9bd726e2a2d726def"
+hash = "5018dc752667252cf291c3f32acba78370dcc0ef2148a324de345fc7181ed3550ea0f90b601cb67d4d4ede0944c06f49ac80e366e124cdec43ba660fbc4d9e44"
 
 [update]
 [update.modrinth]
 mod-id = "qelfSMnn"
-version = "DUObGlCJ"
+version = "xJ3k4Pvg"
