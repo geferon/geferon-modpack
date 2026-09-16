@@ -1558,7 +1558,7 @@ hash = "a69e1c9028d4dd39488f8912a7016737af29bc1f07bba13635c483b1d9f86e49"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/fix_sandshrew.js"
-hash = "d0e20e481760f67a211a1a95f7e55cb09454a0beb446ff0dde49ea73e11c0291"
+hash = "87903a88c2077527d3d89a4768c9ec8adde28be85a1f5c9f565abe1c78b71f4a"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/recipes.js"

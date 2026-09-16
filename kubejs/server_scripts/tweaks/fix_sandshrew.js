@@ -2,7 +2,9 @@ EntityEvents.spawned((event) => {
   if (event.level.clientSide) return;
 
   const { entity } = event;
-  const mobId = entity.type;
+  if (entity.type != "cobblemon:pokemon") return;
+
+  const mobId = entity.name;
 
   // 2. The List of Banned Mobs
   const bannedMobs = ["cobblemon:sandshrew", "cobblemon:sandshrew-alola"];
