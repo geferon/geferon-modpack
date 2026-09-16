@@ -1,0 +1,13 @@
+name = "KubeJS Assets Override"
+filename = "kubejs_lang_override-1.21.1-neoforge-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06d99bb61789b638ee43b2d0ea364168aba89f0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8712379
+project-id = 1664775

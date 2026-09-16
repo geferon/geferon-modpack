@@ -81,6 +81,14 @@ file = "defaultconfigs/incontrol/spawn.json"
 hash = "d42fef87124e96c754d4018b5d6ab8a73f71f8bab88948fdba1ca2bec51ed0db"
 
 [[files]]
+file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/0027_sandshrew/sandshrew/sandshrew.json"
+hash = "fe7e487ebe4089730ed90da0ac57e270b5cae415ce98d57cc6c755638c1a98d6"
+
+[[files]]
+file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/0027_sandshrew/sandshrew/sandshrew_alolan.json"
+hash = "fe7e487ebe4089730ed90da0ac57e270b5cae415ce98d57cc6c755638c1a98d6"
+
+[[files]]
 file = "kubejs/assets/compactmachines/lang/en_us.json"
 hash = "8234c295ed9aa9a307dd9ffda44871650303e0c9c30e7fff7d973056fedbaf49"
 
@@ -1558,7 +1566,7 @@ hash = "a69e1c9028d4dd39488f8912a7016737af29bc1f07bba13635c483b1d9f86e49"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/fix_sandshrew.js"
-hash = "3d6816f56536c9738282320d12e0c49e8151e9e3af83b1982917d0fc9952bea7"
+hash = "df5360d8e85d3c28f3a1adba2bb186de112f4e43b80583fa61371b9a614aaee2"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/recipes.js"
@@ -2919,6 +2927,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-assets-override.pw.toml"
+hash = "da56adee08dc346c876fa8ca094d1a9e15e0ca6a2cb57de2e76e6fb275836350"
 metafile = true
 
 [[files]]
