@@ -81,11 +81,11 @@ file = "defaultconfigs/incontrol/spawn.json"
 hash = "d42fef87124e96c754d4018b5d6ab8a73f71f8bab88948fdba1ca2bec51ed0db"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/0027_sandshrew/sandshrew/sandshrew.json"
+file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/0027_sandshrew/sandshrew.json"
 hash = "fe7e487ebe4089730ed90da0ac57e270b5cae415ce98d57cc6c755638c1a98d6"
 
 [[files]]
-file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/0027_sandshrew/sandshrew/sandshrew_alolan.json"
+file = "kubejs/assets/cobblemon/bedrock/pokemon/posers/0027_sandshrew/sandshrew_alolan.json"
 hash = "fe7e487ebe4089730ed90da0ac57e270b5cae415ce98d57cc6c755638c1a98d6"
 
 [[files]]
