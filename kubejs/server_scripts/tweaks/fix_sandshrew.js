@@ -6,7 +6,7 @@ EntityEvents.spawned((event) => {
 
   const bannedMobs = ["cobblemon:sandshrew", "cobblemon:sandshrew-alola"];
 
-  const species = entity.nbt.Pokemon?.Species;
+  const species = entity.nbt.Pokemon?.Species.getAsString();
 
   if (bannedMobs.includes(species)) {
     event.cancel();
